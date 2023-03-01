@@ -104,3 +104,5 @@ PrintArray(newArray);
 
 Результат вывода в терминал:
 > ![Console](Console.jpg)
+5. Скриншот коммитов:
+> ![Commits](Commits.png)
